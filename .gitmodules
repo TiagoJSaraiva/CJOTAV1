@@ -1,0 +1,3 @@
+[submodule "kill-em-clankers-game"]
+	path = kill-em-clankers-game
+	url = https://github.com/TiagoJSaraiva/kill-em-clankers-game.git
